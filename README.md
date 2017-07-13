@@ -18,4 +18,4 @@ You may want to spend a little time learning how to use markdown, as it'll make 
 
 ## Attribution
 
-This tutorial uses Mark Otto's [Hyde Template for Jekyll](http://hyde.getpoole.com) with some simple modifications to make it Jeykll 3.0 Compatible. You may also chose to use biomadeira's [Sustain Template for Jekyll](http://themes.jekyllrc.org/sustain/) for a different look. Many different Jekyll themes can be found [here](http://themes.jekyllrc.org/).
+This tutorial uses Mark Otto's [Hyde Template for Jekyll](http://hyde.getpoole.com) with some simple modifications to make it Jeykll 3.0 Compatible. You may also choose to use biomadeira's [Sustain Template for Jekyll](http://themes.jekyllrc.org/sustain/) for a different look. Many different Jekyll themes can be found [here](http://themes.jekyllrc.org/).
