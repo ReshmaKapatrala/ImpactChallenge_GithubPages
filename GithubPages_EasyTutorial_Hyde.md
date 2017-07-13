@@ -33,7 +33,7 @@ You can choose between two themes:
 
 OR
 
-[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/0
+[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/0)
 
 [If you're more experienced with Github and Github pages, feel free to experiment with another theme of your choice](https://jekyllthemes.io/)
 
