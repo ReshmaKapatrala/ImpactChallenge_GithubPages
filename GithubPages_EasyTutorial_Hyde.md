@@ -1,14 +1,14 @@
 ---
 title: "Github Pages Tutorial - Easy Version"
-author: "Ted Laderas (laderast@ohsu.edu), Eric Leung, and Robin Champieux"
-date: "4/21/2017"
+author: "Ted Laderas (laderast@ohsu.edu), Eric Leung, and Robin Champieux, updated for Impact Workshop by Letisha Wyatt and Robin Champieux"
+date: "7/13/2017"
 output:
   pdf_document
 ---
 
 ## What is GitHub Pages?
 
-GitHub Pages is a system built into GitHub that allows you to build websites directly from a GitHub Repository.
+GitHub Pages is a system built into GitHub that allows you to build a website, create a domain, and host a website directly from a GitHub Repository.
 
 There are two kinds of GitHub pages:
 
