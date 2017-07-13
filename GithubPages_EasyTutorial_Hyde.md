@@ -19,15 +19,21 @@ Today we'll work on setting up your personal website.
 
 ## Why GitHub Pages?
 
-GitHub is a highly dependable webhost, and you get one personal webpage account for free. 
+GitHub is a highly dependable webhost, and you get one personal webpage account and unlimited project website for free. 
 
-Because GitHub pages is compatible with Markdown, we'll be using Markdown formatting to build our webpage.
+Because GitHub pages is compatible with Markdown, it's easy to customize and update your conten (without having to use or be an expert in HTML or CSS).
 
 ## Our goal for the day
 
-We're going to build a personal webpage which will live at USERNAME.github.io, and have blogging features and will be easily customizable. 
+We're going build your personal professional webpage which will live at USERNAME.github.io
 
-There's an example of a blog here: https://biodata-club.github.io/githubPagesTutorial/
+You can choose between two themes:
+
+[Hyde, a straight forward site with a customizable sidebar and blogging features.](http://jtleek.com/)
+
+&
+
+[Or, if you're more experienced with Github and Github pages, experiment with another theme of your choice](https://jekyllthemes.io/)
 
 ## What You Need for Today
 
@@ -42,17 +48,15 @@ You may want to spend a little time learning how to use markdown, as it'll make 
 
 ## What We're Going to do Today
 
-  1) Fork the Repository
+  1) Fork a Repository
   2) Rename the Repo(sitory)
   3) Change and Personalize Your Site with YAML
   4) Look at your pretty website!
   5) Start Editing Content with Markdown 
   6) Adding Links
   7) Adding Images
-  8) Add a Blog Post
   9) Customize your sidebar with new links
   10) Look at your pretty website!
-  11) Make a local copy for easier editing
 
 ## 1. Fork the Repo(istory) From GitHub
 
