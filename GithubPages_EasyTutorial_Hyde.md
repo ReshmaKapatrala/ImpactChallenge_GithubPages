@@ -31,9 +31,13 @@ You can choose between two themes:
 
 [Hyde, a straight forward site with a customizable sidebar and blogging features.](http://jtleek.com/)
 
-&
+OR
 
-[Or, if you're more experienced with Github and Github pages, experiment with another theme of your choice](https://jekyllthemes.io/)
+[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/0
+
+[If you're more experienced with Github and Github pages, feel free to experiment with another theme of your choice](https://jekyllthemes.io/)
+
+While we focus on Hyde in the notes below, the steps are pretty much theme agnostic.
 
 ## What You Need for Today
 
