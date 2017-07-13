@@ -15,7 +15,7 @@ There are two kinds of GitHub pages:
 + Personal websites (associated with an account)
 + Repository Specific Websites (webpages for software or projects)
 
-We'll mostly cover the personal website for today.
+Today we'll work on setting up your personal website.
 
 ## Why GitHub Pages?
 
