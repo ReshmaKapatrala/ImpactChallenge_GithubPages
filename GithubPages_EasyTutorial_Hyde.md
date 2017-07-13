@@ -96,7 +96,7 @@ We'll be adding our content by using Markdown Files. Markdown is a lightweight w
 
 GitHub has a "translation engine" that will transform and format your Markdown files for the website to make them browser-friendly. 
 
-This means you can concentrate on making content rather than obsessing about every little site detail. There are lots of designers who are good at that if you aren't.  
+This means you can concentrate on making content rather than obsessing about every little site detail. There are lots of designers who are good at that if you aren't.  :smile:
 
 ## 5b. Markdown Basics
 
