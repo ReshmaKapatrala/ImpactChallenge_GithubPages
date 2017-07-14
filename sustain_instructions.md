@@ -1,28 +1,20 @@
 ### Sustain Template Customozing Instructions 
 
-Use the instructions in the tutorial to fork biomadeira's sustain repository and rename as USERNAME.github.io in the repository settings. You may also view (and fork if you prefer) Letisha's modifications to this template: 
+Use the instructions in the tutorial to fork biomadeira's sustain repository, however **DO NOT** rename as USERNAME.github.io in the repository settings.
 
-**1. CREATE A MASTER BRANCH FOR THIS REPOSITORY**
-
-At the main page for the repository, click on the "Branch: gh-pages" drop down arrow and type "master" to _create_ a master branch.
-
-**2. UPDATE GITHUB PAGES SOURCE**
-
-In the repository settings, select "master branch" as the source for your Github Pages site. This and the previous step allows you to use the repository name that you entered at the top of Settings for your url (removes "sustain" from end of your website's url).
-
-**3. RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
+**1. RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
 
 Edit config.yml
 
 lines 13-26
 
-**4. UPDATING HOMEPAGE CONTENT**
+**2. UPDATING HOMEPAGE CONTENT**
 
 Edit index.html file
 
 lines 10-12
 
-**5. UPDATING PHOTO**
+**3. UPDATING PHOTO**
 
 static/img folder
 
@@ -32,19 +24,19 @@ make a new folder called "img" in the static folder by clicking the "create new 
 
 upload a replacement image, named “profile.png” (you may remove the dummy file in the folder if you like)
 
-**6. REMOVING “FORK ME” BANNER**
+**4. REMOVING “FORK ME” BANNER**
 
 _layouts/layouts.html
 
 Delete line 51 
 
-**7. EDITING “PROJECTS**
+**5. EDITING “PROJECTS**
 
 _includes folder/projects.html
 
 edit line 8 onward, keeping the line above with the text for each project “Project 2</a></strong>”
 
-**8. CREATING “BLOG POSTS**
+**6. CREATING “BLOG POSTS**
 
 _posts folder (blog posts)
 
@@ -62,7 +54,7 @@ Remove/Replace everything after line 9
 
 *delete the file that you copied
 
-**9. ENTER YOUR CV/RESUME**
+**7. ENTER YOUR CV/RESUME**
 
 
 Fork biomadeira's [CV template](https://biomadeira.github.io/vitae/) 
