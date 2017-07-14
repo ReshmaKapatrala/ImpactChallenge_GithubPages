@@ -1,34 +1,38 @@
+### Sustain Template Customozing Instructions
+
 Use the instructions in the tutorial to fork biomadeira's sustain repository and rename as USERNAME.github.io in the repository settings. 
 
-**CREATE A MASTER BRANCH FOR THIS REPOSITORY**
+**1. CREATE A MASTER BRANCH FOR THIS REPOSITORY**
 
 At the main page for the repository, click on the "Branch: gh-pages" drop down arrow and type "master" to _create_ a master branch.
 
-**UPDATE GITHUB PAGES SOURCE**
+**2. UPDATE GITHUB PAGES SOURCE**
 
 In the repository settings, select "master branch" as the source for your Github Pages site.
 
-**RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
+**3. RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
 
 Edit config.yml
 
 lines 13-26
 
-**UPDATING HOMEPAGE CONTENT**
+**4. UPDATING HOMEPAGE CONTENT**
 
 Edit index.html file
 
 lines 10-12
 
-**UPDATING PHOTO**
+**5. UPDATING PHOTO**
 
 static/img folder
 
-delete file
+delete file (this will also delete the folder as you cannot have empty folders in Github)
 
-upload a replacement image, named “profile.png”
+make a new folder called "img" in the static folder by clicking the "create new file" button, entering "img/" (the forward slash designates the folder), followed by "empty" or "placeholder" to add a dummy file to your new img folder
 
-**REMOVE “FORK ME” BANNER**
+upload a replacement image, named “profile.png” (you may remove the dummy file in the folder if you like)
+
+**6. REMOVING “FORK ME” BANNER**
 
 _layouts/layouts.html
 
