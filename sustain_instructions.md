@@ -38,13 +38,13 @@ _layouts/layouts.html
 
 Delete line 51 
 
-**EDITING “PROJECTS**
+**7. EDITING “PROJECTS**
 
 _includes folder/projects.html
 
 edit line 8 onward, keeping the line above with the text for each project “Project 2</a></strong>”
 
-**CREATING “BLOG POSTS**
+**8. CREATING “BLOG POSTS**
 
 _posts folder (blog posts)
 
@@ -62,7 +62,7 @@ Remove/Replace everything after line 9
 
 *delete the file that you copied
 
-**ENTER YOUR CV/RESUME**
+**9. ENTER YOUR CV/RESUME**
 
 
 Fork biomadeira's [CV template](https://biomadeira.github.io/vitae/) 
@@ -86,7 +86,6 @@ social.html file
 Delete lines 16-18
 
 **OPTIONAL – change green color**
-
 
 static folder/css/main.css
 
