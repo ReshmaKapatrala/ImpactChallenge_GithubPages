@@ -1,6 +1,6 @@
-### Sustain Template Customozing Instructions
+### Sustain Template Customozing Instructions 
 
-Use the instructions in the tutorial to fork biomadeira's sustain repository and rename as USERNAME.github.io in the repository settings. 
+Use the instructions in the tutorial to fork biomadeira's sustain repository and rename as USERNAME.github.io in the repository settings. You may also view (and fork if you prefer) Letisha's modifications to this template: 
 
 **1. CREATE A MASTER BRANCH FOR THIS REPOSITORY**
 
