@@ -33,7 +33,7 @@ You can choose between two themes:
 
 OR
 
-[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/)
+[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/). See our instructions [here](ImpactChallenge_GithubPages/sustain_instructions.md).
 
 [If you're more experienced with Github and Github pages, feel free to experiment with another theme of your choice](https://jekyllthemes.io/)
 
@@ -68,7 +68,7 @@ Log into your GitHub account. Now go to the website repo: https://github.com/lad
 
 ## 2. Rename the Repo
 
-Now click the "Settings" tab on your repository. Change your repository name to USERNAME.github.io, where USERNAME is your GitHub Login.
+Now click the "Settings" tab on your repository. Change your repository name to USERNAME.github.io, where USERNAME is your GitHub Login. **skip this step for the sustain template**.
 
 ## 3. Editing the Name of Your Webpage and Customizing
 
