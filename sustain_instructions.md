@@ -8,7 +8,7 @@ At the main page for the repository, click on the "Branch: gh-pages" drop down a
 
 **2. UPDATE GITHUB PAGES SOURCE**
 
-In the repository settings, select "master branch" as the source for your Github Pages site.
+In the repository settings, select "master branch" as the source for your Github Pages site. This and the previous step allows you to use the repository name that you entered at the top of Settings for your url (removes "sustain" from end of your website's url).
 
 **3. RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
 
