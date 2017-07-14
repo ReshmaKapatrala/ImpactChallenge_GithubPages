@@ -29,13 +29,13 @@ We're going build your personal professional webpage which will live at USERNAME
 
 You can choose between two themes:
 
-[Hyde, a straight forward site with a customizable sidebar and blogging features.](http://jtleek.com/)
+[Hyde](http://jtleek.com/), a straight forward site with a customizable sidebar and blogging features.
 
 OR
 
-[Sustain, a clean but slightly more robust option that includes a header photo](http://themes.jekyllrc.org/sustain/). See our instructions [here](ImpactChallenge_GithubPages/sustain_instructions.md).
+[Sustain](http://themes.jekyllrc.org/sustain/), a clean but slightly more robust option that includes a header photo. See our instructions [here](ImpactChallenge_GithubPages/sustain_instructions.md).
 
-[If you're more experienced with Github and Github pages, feel free to experiment with another theme of your choice](https://jekyllthemes.io/)
+If you're more experienced with Github and Github pages, feel free to experiment with [another theme](https://jekyllthemes.io/) of your choice.
 
 While we focus on Hyde in the notes below, the steps are pretty much theme agnostic.
 
