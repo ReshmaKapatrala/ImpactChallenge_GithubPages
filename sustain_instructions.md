@@ -20,7 +20,7 @@ static/img folder
 
 delete file (this will also delete the folder as you cannot have empty folders in Github)
 
-make a new folder called "img" in the static folder by clicking the "create new file" button, entering "img/" (the forward slash designates the folder), followed by "empty" or "placeholder" to add a dummy file to your new img folder
+You can make a new `img/` folder in your repository. To do this, we will need to create a dummy file, because git requires a file in a new folder. Click on the "Add a New File" button in the root directory and type in `img/dummyFile`. Commit this dummy file into the repo and you should now see that the `img/` folder has been created. Now you can upload images into to that directory using the `Upload Files` button. 
 
 upload a replacement image, named “profile.png” (you may remove the dummy file in the folder if you like)
 
