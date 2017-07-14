@@ -2,9 +2,7 @@ Use the instructions in the tutorial to fork biomadeira's sustain repository and
 
 **CREATE A MASTER BRANCH FOR THIS REPOSITORY**
 
-Click on the "Branch: gh-pages" drop down arrow and type "master" to create a master branch.
-
-#image
+At the main page for the repository, click on the "Branch: gh-pages" drop down arrow and type "master" to _create_ a master branch.
 
 **UPDATE GITHUB PAGES SOURCE**
 
