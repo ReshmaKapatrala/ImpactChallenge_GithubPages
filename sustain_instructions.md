@@ -1,10 +1,13 @@
 Use the instructions in the tutorial to fork biomadeira's sustain repository and rename as USERNAME.github.io in the repository settings. 
 
 **CREATE A MASTER BRANCH FOR THIS REPOSITORY**
+
 Click on the "Branch: gh-pages" drop down arrow and type "master" to create a master branch.
+
 #image
 
 **UPDATE GITHUB PAGES SOURCE**
+
 In the repository settings, select "master branch" as the source for your Github Pages site.
 
 **RENDERING WEBSITE AND EDITING HOMEPAGE LINKOUTS**
